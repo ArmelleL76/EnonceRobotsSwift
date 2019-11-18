@@ -1,6 +1,6 @@
 # Exercice POO Swift : Les Robots
 
-Nous allons construire un robot virtuel qui pourra se déplacer sur une carte et effectuer diverses actions. Pour faciliter le travail nous allons utiliser les concepts de la programmation orientée objet dans un nouveau projet **XCode**.
+Nous allons construire une application de Robots virtuels, sans défense,  qui penvent se présenter et se déplacer sur une carte (la carte n'entre pas de le spectre du TP ) et être confrontés à des méchants qui pourront les attaquer.  Pour faciliter le travail nous allons utiliser les concepts de la programmation orientée objet dans un nouveau projet **XCode**.
 
 N'hésitez pas à forker ce projet et créer l'exercice dans le repo forké
 
